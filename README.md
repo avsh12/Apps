@@ -7,7 +7,8 @@ A simple Android app that I developed guided by the book "Android Programming (T
 <center><img src="GQ2.jpg" style="display: block; width:50%; text-align:center margin-left:auto; margin-right:auto;"></center>
 
 ## Matrix Calculator
-An android app that takes input the dimension of the matrix and the matrix entry. The output is the Row Echelon for of the matrix.
+An android app that takes input the dimension of the matrix and the matrix entry. The output is the Row Echelon form of the matrix.
 <center><img src="MC1.jpg" style="display: block; width:50%; text-align:center margin-left:auto; margin-right:auto;"></center>
 <center><img src="MC2.jpg" style="display: block; width:50%; text-align:center margin-left:auto; margin-right:auto;"></center>
 
+Unfortunately, I lost the codes for the apps, so I am not able to provide codes for these.
